@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">POIs around me</string>
+    <string name="title_activity_main_map">POIs around me</string>
+    <string name="mapType">Choose a map type</string>
+    <string name="poiDistance">Choose POIs distance</string>
+    <string name="locationIsOff">Location is off</string>
+    <string name="locationOffMessage">Device\'s Location is off \nPlease turn it on</string>
+    <string name="turnOn">Turn On</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+    <string name="distanceMenu">Distance</string>
+    <string name="mapTypeMenu">Map Type</string>
+    <string name="poiTypeMenu">POI type</string>
+    <string name="poiType">Choose POIs types</string>
+    <string name="navigate">Navigate?</string>
+    <string name="navigateText">Do you want to navigate to</string>
+    <string name="navigateYes">Navigate</string>
+
+</resources>

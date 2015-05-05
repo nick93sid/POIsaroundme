@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">POIs γύρω μου</string>
+    <string name="title_activity_main_map">POIs γύρω μου</string>
+    <string name="mapType">Επιλογή τύπου χάρτη</string>
+    <string name="poiDistance">Επιλογή απόστασης POI</string>
+    <string name="locationIsOff">Τοποθεσία απενεργοποιημένη</string>
+    <string name="locationOffMessage">Η τοποθεσία στη συσκευή είναι απενεργοποιημένη! \nΠαρακαλώ ενεργοποιήστε την.</string>
+    <string name="turnOn">Ενεργοποίηση</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="choose">Επιλογή</string>
+    <string name="distanceMenu">Απόσταση POIs</string>
+    <string name="mapTypeMenu">Τύπος Χάρτη</string>
+    <string name="poiTypeMenu">Τύπος POIs</string>
+    <string name="poiType">Επιλογή τύπου POI</string>
+    <string name="navigate">Πλοήγηση;</string>
+    <string name="navigateText">Θέλετε να πλοηγηθείτε σε</string>
+    <string name="navigateYes">Πλοήγηση</string>
+
+</resources>

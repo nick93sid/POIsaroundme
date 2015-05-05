@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mapTypes">
+        <item>Κανονικός</item>
+        <item>Υβριδικός</item>
+        <item>Δορυφορικός</item>
+        <item>Εδάφους</item>
+    </string-array>
+
+    <string-array name="distances">
+        <item>50 μ</item>
+        <item>100 μ</item>
+        <item>250 μ</item>
+        <item>500 μ</item>
+        <item>1 χλμ</item>
+        <item>2 χλμ</item>
+        <item>3 χλμ</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Λογιστικά</item>
+        <item>Αεροδρόμιο</item>
+        <item>Λούνα Παρκ</item>
+        <item>Ενυδρείο</item>
+        <item>Γκαλερί Τέχνης</item>
+        <item>ATM</item>
+        <item>Φούρνος</item>
+        <item>Τράπεζα</item>
+        <item>Μπαρ</item>
+        <item>Σαλόνι Ομορφιάς</item>
+        <item>Κατάστημα Ποδηλάτων</item>
+        <item>Βιβλιοπωλείο</item>
+        <item>Μπόουλινγκ</item>
+        <item>Σταθμός Λεωφορείων</item>
+        <item>Καφέ</item>
+        <item>Κατασκήνωση</item>
+        <item>Αντιπρόσωπος Αυτοκινήτων</item>
+        <item>Ενοικιάσεις Αυτοκινήτων</item>
+        <item>Συνεργεία Αυτοκινήτων</item>
+        <item>Πλυντήριο Αυτοκινήτων</item>
+        <item>Καζίνο</item>
+        <item>Νεκροταφείο</item>
+        <item>Εκκλησία</item>
+        <item>Δημαρχείο</item>
+        <item>Κατάστημα Ένδυσης</item>
+        <item>Κατάστημα Ψιλικών Ειδών</item>
+        <item>Δικαστικό Μέγαρο</item>
+        <item>Οδοντίατρος</item>
+        <item>Πολυκατάστημα</item>
+        <item>Γιατρός</item>
+        <item>Ηλεκτρολόγος</item>
+        <item>Κατάστημα Ηλεκτρονικών </item>
+        <item>Πρεσβεία</item>
+        <item>Ίδρυμα</item>
+        <item>Οικονομικά</item>
+        <item>Πυροσβεστική</item>
+        <item>Ανθοπωλείο</item>
+        <item>Φαγητό</item>
+        <item>Γραφείο Τελετών</item>
+        <item>Κατάστημα Επίπλων</item>
+        <item>Βενζινάδικο</item>
+        <item>Γενική Ανάδοχος</item>
+        <item>Παντοπωλείο ή σούπερ μάρκετ</item>
+        <item>Γυμναστήριο</item>
+        <item>Περιποίηση Μαλλιών</item>
+        <item>Υλικό Κατάστημα</item>
+        <item>Υγεία</item>
+        <item>Ινδουιστικός Ναός</item>
+        <item>Κατάστημα Με Προϊόντα Σπιτιού </item>
+        <item>Νοσοκομείο</item>
+        <item>Ασφαλιστική Εταιρία</item>
+        <item>Κοσμηματοπωλείο</item>
+        <item>Πλυντήριο Ρούχων</item>
+        <item>Δικηγόρος</item>
+        <item>Βιβλιοθήκη</item>
+        <item>Κάβα Ποτών</item>
+        <item>Γραφείο Τοπικής Αυτοδιοίκησης</item>
+        <item>Κλειδαράς</item>
+        <item>Κατάλυμα</item>
+        <item>Delivery Φαγητού</item>
+        <item>Γεύμα Σε Πακέτο</item>
+        <item>Τζαμί</item>
+        <item>Ενοικίαση Ταινιών</item>
+        <item>Κινηματογράφος</item>
+        <item>Μεταφορική Εταιρία</item>
+        <item>Μουσείο</item>
+        <item>Club</item>
+        <item>Ζωγράφος</item>
+        <item>Πάρκο</item>
+        <item>Στάθμευσης</item>
+        <item>Κατάστημα Ζώων</item>
+        <item>Φαρμακείο</item>
+        <item>Φυσιοθεραπευτής</item>
+        <item>Τόπος Λατρείας</item>
+        <item>Υδραυλικός</item>
+        <item>Αστυνομία</item>
+        <item>Ταχυδρομείο</item>
+        <item>Μεσιτικό Γραφείο</item>
+        <item>Εστιατόριο</item>
+        <item>Ανάδοχος Στέγης</item>
+        <item>Πάρκο Τροχόσπιτων</item>
+        <item>Σχολείο</item>
+        <item>Κατάστημα Υποδημάτων</item>
+        <item>Εμπορικό Κέντρο</item>
+        <item>Σπα</item>
+        <item>Στάδιο</item>
+        <item>Αποθήκη</item>
+        <item>Κατάστημα</item>
+        <item>Σταθμός Μετρό</item>
+        <item>Συναγωγή</item>
+        <item>Πιάτσα Ταξί</item>
+        <item>Σιδηροδρομικός Σταθμός</item>
+        <item>Ταξιδιωτικό Γραφείο</item>
+        <item>Πανεπιστήμιο</item>
+        <item>Κτηνίατρος</item>
+        <item>Ζωολογικός Κήπος</item>
+    </string-array>
+
+</resources>
